@@ -100,7 +100,7 @@ Colección de:
 
 ## 📫 Contacto
 
-- 💼 LinkedIn: https://www.linkedin.com/
+- 💼 LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/in/luisa-vivas-ceron-6998353a)
 - 🐙 GitHub: https://github.com/tu-usuario
 - 📍 España
 
@@ -109,3 +109,4 @@ Colección de:
 ## 📄 Licencia
 
 Este portfolio es de uso personal y demostrativo.
+
